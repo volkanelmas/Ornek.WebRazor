@@ -1,24 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\BEN\\source\\repos\\Ornek.WebRazor02\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{44B640F5-3087-4E10-83CE-0475265F1AEE}|Ornek.WebRazor02\\Ornek.WebRazor02.csproj|c:\\users\\ben\\source\\repos\\ornek.webrazor02\\ornek.webrazor02\\pages\\person\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B640F5-3087-4E10-83CE-0475265F1AEE}|Ornek.WebRazor02\\Ornek.WebRazor02.csproj|solutionrelative:ornek.webrazor02\\pages\\person\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44B640F5-3087-4E10-83CE-0475265F1AEE}|Ornek.WebRazor02\\Ornek.WebRazor02.csproj|c:\\users\\ben\\source\\repos\\ornek.webrazor02\\ornek.webrazor02\\pages\\person\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B640F5-3087-4E10-83CE-0475265F1AEE}|Ornek.WebRazor02\\Ornek.WebRazor02.csproj|solutionrelative:ornek.webrazor02\\pages\\person\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44B640F5-3087-4E10-83CE-0475265F1AEE}|Ornek.WebRazor02\\Ornek.WebRazor02.csproj|c:\\users\\ben\\source\\repos\\ornek.webrazor02\\ornek.webrazor02\\pages\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44B640F5-3087-4E10-83CE-0475265F1AEE}|Ornek.WebRazor02\\Ornek.WebRazor02.csproj|solutionrelative:ornek.webrazor02\\pages\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{44B640F5-3087-4E10-83CE-0475265F1AEE}|Ornek.WebRazor02\\Ornek.WebRazor02.csproj|c:\\users\\ben\\source\\repos\\ornek.webrazor02\\ornek.webrazor02\\pages\\person\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B640F5-3087-4E10-83CE-0475265F1AEE}|Ornek.WebRazor02\\Ornek.WebRazor02.csproj|solutionrelative:ornek.webrazor02\\pages\\person\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,63 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Details.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\BEN\\source\\repos\\Ornek.WebRazor02\\Ornek.WebRazor02\\Pages\\Person\\Details.cshtml.cs",
-              "RelativeDocumentMoniker": "Ornek.WebRazor02\\Pages\\Person\\Details.cshtml.cs",
-              "ToolTip": "C:\\Users\\BEN\\source\\repos\\Ornek.WebRazor02\\Ornek.WebRazor02\\Pages\\Person\\Details.cshtml.cs",
-              "RelativeToolTip": "Ornek.WebRazor02\\Pages\\Person\\Details.cshtml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T10:39:41.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\BEN\\source\\repos\\Ornek.WebRazor02\\Ornek.WebRazor02\\Pages\\Person\\Edit.cshtml.cs",
-              "RelativeDocumentMoniker": "Ornek.WebRazor02\\Pages\\Person\\Edit.cshtml.cs",
-              "ToolTip": "C:\\Users\\BEN\\source\\repos\\Ornek.WebRazor02\\Ornek.WebRazor02\\Pages\\Person\\Edit.cshtml.cs",
-              "RelativeToolTip": "Ornek.WebRazor02\\Pages\\Person\\Edit.cshtml.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T10:39:24.443Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\BEN\\source\\repos\\Ornek.WebRazor02\\Ornek.WebRazor02\\Pages\\Person\\Index.cshtml",
-              "RelativeDocumentMoniker": "Ornek.WebRazor02\\Pages\\Person\\Index.cshtml",
-              "ToolTip": "C:\\Users\\BEN\\source\\repos\\Ornek.WebRazor02\\Ornek.WebRazor02\\Pages\\Person\\Index.cshtml",
-              "RelativeToolTip": "Ornek.WebRazor02\\Pages\\Person\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-17T10:39:22.315Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\BEN\\source\\repos\\Ornek.WebRazor02\\Ornek.WebRazor02\\Pages\\Person\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "Ornek.WebRazor02\\Pages\\Person\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\BEN\\source\\repos\\Ornek.WebRazor02\\Ornek.WebRazor02\\Pages\\Person\\Index.cshtml.cs",
-              "RelativeToolTip": "Ornek.WebRazor02\\Pages\\Person\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T10:39:20.876Z",
-              "EditorCaption": ""
             }
           ]
         }
