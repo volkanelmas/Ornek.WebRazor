@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ornek.WebRazor02.props" />
+</Project>
